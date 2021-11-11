@@ -1,0 +1,60 @@
+#homeLink {
+  margin-left: -19em;
+}
+#welcomeHeader {
+  padding-left: 30em;
+}
+#profileLink {
+  padding-left: 49em;
+}
+
+@media (max-width: 1440px) {
+  #navBar {
+    width: 100em;
+  }
+  #profileLink {
+    padding-left: 39em;
+  }
+  #homeLink {
+    margin-left: -8em;
+  }
+}
+@media (max-width: 1024px) {
+  #navBar {
+    width: 90em;
+  }
+  #welcomeHeader {
+    padding-left: 20em;
+  }
+  #profileLink {
+    padding-left: 36em;
+  }
+  #homeLink {
+    margin-left: -15em;
+  }
+}
+@media (max-width: 768px) {
+  #navBar {
+    width: 75em;
+  }
+  #welcomeHeader {
+    padding-left: 13em;
+  }
+  #profileLink {
+    padding-left: 29em;
+  }
+}
+@media (max-width: 425px) {
+  #navBar {
+    width: 59em;
+  }
+  #welcomeHeader {
+    padding-left: 17em;
+  }
+  #profileLink {
+    padding-left: 20em;
+  }
+  #homeLink {
+    margin-left: 0em;
+  }
+}
