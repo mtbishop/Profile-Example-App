@@ -1,0 +1,37 @@
+#viewProfile {
+  width: 50em;
+  margin-left: 25em;
+  margin-right: 5em;
+  margin-top: 2em;
+}
+@media (max-width: 2560px) {
+  #viewProfile {
+    margin-left: 40em;
+  }
+}
+@media (max-width: 1920px) {
+  #viewProfile {
+    margin-left: 25em;
+  }
+}
+@media (max-width: 1440px) {
+  #viewProfile {
+    margin-left: 17em;
+  }
+}
+@media (max-width: 1024px) {
+  #viewProfile {
+    margin-left: 12em;
+  }
+}
+@media (max-width: 768px) {
+  #viewProfile {
+    margin-left: 5em;
+  }
+}
+@media (max-width: 425px) {
+  #viewProfile {
+    width: 40em;
+    margin-left: 4.5em;
+  }
+}
