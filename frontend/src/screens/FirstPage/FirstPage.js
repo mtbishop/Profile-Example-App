@@ -21,7 +21,7 @@ const FirstPage = () => {
           <div className="intro-text">
             <div>
               <h1 className="main-header">Coding Project</h1>
-              <p className="sub-header">for Sandbox Inc.</p>
+              <p className="sub-header">for Sandbox Commerce</p>
             </div>
             <div className="button-container">
               <Link to="/login">
