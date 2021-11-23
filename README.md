@@ -1,4 +1,4 @@
-# Sandbox-Code-Project
+# Profile Example App
 
 
 User Story:
